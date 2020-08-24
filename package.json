@@ -1,5 +1,5 @@
 {
-  "name": "webpack-react",
+  "name": "webpack-config-react",
   "version": "1.0.0",
   "description": "webpack4 config for react web app",
   "main": "index.js",
